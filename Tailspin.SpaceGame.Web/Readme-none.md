@@ -1,1 +1,1 @@
-﻿
+﻿Add local another file for test. I learning Git.
